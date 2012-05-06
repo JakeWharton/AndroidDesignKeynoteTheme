@@ -5,7 +5,7 @@ A simple theme for Apple Keynote which adheres to the clean look of the
 [Android Design][1] website.
 
 *Note:* This theme requires the Roboto font to be installed which you can
-download from ["Typography" section][2].
+download from the ["Typography" section][2].
 
 ![Example Slide][3]
 
