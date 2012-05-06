@@ -42,4 +42,4 @@ License
 
  [1]: http://developer.android.com/design/index.html
  [2]: http://developer.android.com/design/style/typography.html
- [3]: http://raw.github.com/JakeWharton/AndroidDesignKeynoteTheme/master/sample.png
+ [3]: https://github.com/JakeWharton/AndroidDesignKeynoteTheme/raw/master/sample.png
